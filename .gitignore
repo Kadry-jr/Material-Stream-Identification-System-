@@ -41,6 +41,7 @@ venv.bak/
 
 # Dataset and model files (commonly large files)
 augmented_dataset/
+features/
 *.pth
 *.h5
 *.hdf5
