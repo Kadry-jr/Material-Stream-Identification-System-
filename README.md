@@ -33,7 +33,12 @@
  - [Training Pipeline (Notebooks)](#training-pipeline-notebooks)
  - [Generated Artifacts](#generated-artifacts)
  - [How Prediction Works](#how-prediction-works)
+ - [Models](#models)
+ - [Dataset](#dataset)
  - [Troubleshooting](#troubleshooting)
+ - [Notes](#notes)
+ - [Acknowledgments](#Acknowledgments)
+ - [Contributors](#Contributors)
 
 ---
 
